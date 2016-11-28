@@ -1,0 +1,6 @@
+{
+  "name": "Lodworkshop-project",
+  "tagline": "A repository to do the exercices of the LOD dev project",
+  "body": "# LODworkshop-project\r\n\r\n*That's* **basically** to exercice how to use `git` and [GitHub](https://github.com).\r\n\r\nThe [locations.csv](locations.csv) file maps location names to geo coordinates formatted as \"latitude,longitude\".\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
