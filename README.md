@@ -1,3 +1,3 @@
-# LODworkshop-project
-
-[Linked Open Development](https://hbz.github.io/swib16-workshop/)
+The locations.csv file maps 
+location names to geo coordinates 
+formatted as "latitude,longitude".
